@@ -29,7 +29,7 @@ we colud assume a perfect normality then std/2 = median-30th percentile, the abo
 
 From the original excel files few features were extracted and others were created.
 
-From the Kantar file: 
+From the Kantar file:   
 1- Column solution was used to create the Medium_Final column Digital/TV.  
 2- With the column measure the Gender feature was created and only the aggregates values were selected for the final table.
 ~~~~
