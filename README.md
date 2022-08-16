@@ -46,6 +46,7 @@ The final files were saved as parquet files.
 
 1- A better solution must be implemented to split the column country into Country/Format  
 2- To Round all the numeric values  
-3- The percentiles must be show like 30th instead of a number   
+3- The percentiles must be show like 30th instead of a number 
+4- Working with the data types of the final data in the parquet files 
 
 
